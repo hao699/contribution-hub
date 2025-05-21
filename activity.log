@@ -154,3 +154,4 @@
 [2025-05-20 19:35:49] Optimize database queries
 [2025-05-20 17:19:18] Fix minor bugs in the utility module
 [2025-05-21 10:15:46] Add unit tests for the authentication flow
+[2025-05-21 19:31:58] Refactor core logic for better performance
