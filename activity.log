@@ -526,3 +526,4 @@
 [2025-10-19 08:45:04] Fix minor bugs in the utility module
 [2025-10-19 17:24:48] Improve code readability and structure
 [2025-10-21 03:35:36] Fix minor bugs in the utility module
+[2025-10-21 00:57:25] Refactor core logic for better performance
